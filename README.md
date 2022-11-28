@@ -5,11 +5,11 @@ Analysis regarding various Kickstarter campaigns specific to Theatre.
 
 ## Overview of Project
 
-The overview of the project was to analyze prior Kickstarter campaigns, and compile analysis in order to provide information to Louise who is currently looking into starting a crowdfunding campaign to help fund her play, Fever.
+The overview of the project was to analyze prior Kickstarter campaigns, and compile analysis in order to provide information to Louise who is interested in how the other campaigns fared against hers.
  
 ### Purpose
 
-The purpose of the project is to provide Louise with analysis that will help her set the goal amount and potential dates of when to run a Kickstarter campaign.
+The purpose of the project is to show Louise the outcome of other kickstarter campaigns so that she can compare to the campaign she just ran.
 
 ## Analysis and Challenges
 
