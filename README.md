@@ -45,15 +45,19 @@ There were a few challenges that could come up during the analysis.  Selecting t
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 1. Most campaigns are launched in May,  which had the highest rate of success and failure. 
 2. The rate at which campaigns failed or succeeded were relatively stable,  so that as the successful rate rose so did the failed rate,  and vice versa. 
 
 - What can you conclude about the Outcomes based on Goals?
+
 The highest percentage of successful campaigns had a goal amount less than 1,000.  As the goal amount increased the rate of success fell,  until the         amount hit 25,000 to 29,999,  at which the rate increased and held steady through 40,000 to 44,999. At 45,000 to 49,999 there were 0 successful campaigns,  but the amount increased to 10% success rate at a 50,000 or more goal amount.  
 
 - What are some limitations of this dataset?
+
 The dataset does not include how much experience the person running the campaign has,  which would directly effect the rate of success. Also, there could be influences during certain years (recession/Covid/etc) that would impact the rate of success.
 
 - What are some other possible tables and/or graphs that we could create?
+
 A table that includes a breakdown by country to see what countries are most successful when launching a campaign. The rate of success for a given month of the year,  which would show the best day of the week to launch a campaign. 
 
