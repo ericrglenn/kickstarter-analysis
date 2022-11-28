@@ -5,17 +5,17 @@ Analysis regarding various Kickstarter campaigns specific to Theatre.
 
 ## Overview of Project
 
-The overview of the project was to analyize prior Kickstarter campaigns in order to provide analysis to Louise,  who is currently looking into starting a crowdfunding campaign to help fund her play, Fever. 
+The overview of the project was to analyize prior Kickstarter campaigns, and compile analysis in order to provide information to Louise who is currently looking into starting a crowdfunding campaign to help fund her play, Fever. 
  
 ### Purpose
 
- The purpose of the project is to provide Louise with analysis that will help her set the goal amount and potential dates of when to run the campaign. 
+ The purpose of the project is to provide Louise with analysis that will help her set the goal amount and potential dates of when to run a kickstarter campaign. 
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
 
-The analysis was performed by creating a pivot table based on a dataset of prior campaigns,  and then using the pivot to create a line chart to see the outcomes visually. The outcomes were counted for each particular month regarding success, failed and canceled campaigns. 
+The analysis was conducted by creating a pivot table based on the dataset of prior campaigns,  and then using the pivot to create a line chart to see the outcomes visually. The outcomes were counted for each particular month regarding success, failed and canceled campaigns. 
 
 Pivot Table:
 
@@ -27,7 +27,7 @@ Line Chart:
 
 
 ### Analysis of Outcomes Based on Goals
-The analysis was performed by creating a table and utilizing the sumifs function in excel.  Based on the Goal amount,  the campaigns were counted with regard to successful, failed and cancelled. The percentages of each outcome were then calculated and used to create the line chart. 
+The analysis was performed by creating a table by utilizing the sumifs function in excel.  Based on the Goal amount,  the campaigns were counted with regard to successful, failed and cancelled. The percentages of each outcome were then calculated and used to create the line chart. 
 
 Outcomes based on goals table:
 
