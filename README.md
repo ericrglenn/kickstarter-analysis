@@ -2,7 +2,7 @@
 Analysis regarding various Kickstarter campaigns specific to Theatre. 
 # Kickstarting with Excel
 ## Overview of Project
-## The overview of the project was to analyize prior Kickstarter campaigns in order to provide analysis to Louise,  who is currently looking into starting a crowdfunding campaign to help fund her play, Fever. 
+ The overview of the project was to analyize prior Kickstarter campaigns in order to provide analysis to Louise,  who is currently looking into starting a crowdfunding campaign to help fund her play, Fever. 
 ### Purpose
  The purpose of the project is to provide Louise with analysis that will help her set the goal amount and potential dates of when to run the campaign. 
 
