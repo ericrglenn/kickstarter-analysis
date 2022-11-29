@@ -5,11 +5,11 @@ Analysis regarding various Kickstarter campaigns specific to Theatre.
 
 ## Overview of Project
 
-The overview of the project was to analyze prior Kickstarter campaigns, and compile data in order to provide information to Louise who is interested in knowing how the other campaigns fared against hers with respect to their launch dates and funding goals. Louise recently ran a Kickstarter campaign to fund a play, and came close to reaching the goal. 
+Louise recently ran a Kickstarter campaign to fund a play, and came close to reaching the goal. The overview of the project was to analyze prior Kickstarter campaigns, and compile data in order to provide information to Louise who is interested in knowing how the other campaigns fared against hers with respect to their launch dates and funding goals. 
  
 ### Purpose
 
-The purpose of the project is to compile and analyze data from prior Kickstarter campaigns to show Louise how her campaign fared against others with relation to launch date and funding goals.
+The purpose of the project was to compile and analyze data from prior Kickstarter campaigns to show Louise how her campaign fared against others with regard to launch date and funding goal.
 
 ## Analysis and Challenges
 
