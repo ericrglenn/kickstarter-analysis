@@ -39,7 +39,7 @@ Line Chart:
 
 ### Challenges and Difficulties Encountered
 
-There were a few challenges that could come up during the process of compiling and analyzing the data. Selecting the correct type of line chart in excel, particularly regarding the stacked line chart, is critical to getting an accurate visualization. The stacked line chart will result in a line chart that does not accurately depict the data. Having the correct cell references was critical when compiling the Outcomes Based on Goals table. By using absolute references the table was easy to update when populating the formulas between columns.
+There were a few challenges that could come up during the process of compiling and analyzing the data. Selecting the correct type of line chart in excel, particularly regarding the stacked line chart, is critical to getting an accurate visualization. The stacked line chart will result in a line chart that does not accurately depict the data. Having the correct cell references was critical when compiling the Outcomes Based on Goals table. By using absolute references, the table was easy to update when populating the formulas between columns.
  
 
 ## Results
